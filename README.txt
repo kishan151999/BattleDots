@@ -1,3 +1,6 @@
+Python implementation of modified Battleships game using multithreading. 
+
+
 
 HOW TO START THE PROGRAM:
 
